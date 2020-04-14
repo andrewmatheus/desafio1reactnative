@@ -23,7 +23,7 @@
 Nesse desafio foi trabalhado todo conteúdo ministrado no nível 1 do módulo de React Native.
 
 Link da api Node.js: <a href="https://github.com/andrewmatheus/desafio1nodejs">API Node.js</a>  
-Link do desafio rocketseat: <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-reactjs">Detalhes Desafio</a>
+Link do desafio rocketseat: <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-react-native">Detalhes Desafio</a>
 
 
 ## :memo: Licença
